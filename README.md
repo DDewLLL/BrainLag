@@ -1,2 +1,0 @@
-# BrainLag
-First repository
